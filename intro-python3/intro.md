@@ -12,7 +12,7 @@ All of this information on the Python 3.x command line and environment can be be
 
 ```python [-bBdEhiIOqsSuvVWx?] [-c <command> | -m <module-name> | script | - ] [args]```
 
-```python
+<pre>
 def mention():
     print("This is the plan.)
-```
+</pre>
