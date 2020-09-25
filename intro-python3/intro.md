@@ -10,3 +10,8 @@ All of this information on the Python 3.x command line and environment can be be
     * Built-in Constants 
 
 ```python [-bBdEhiIOqsSuvVWx?] [-c <command> | -m <module-name> | script | - ] [args]```
+
+```python
+def mention():
+    print("This is the plan.)
+```
