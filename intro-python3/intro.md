@@ -1,3 +1,4 @@
+![CassidyMedia Logo](.assets/color_logo_no_background.png)
 # Python 3.x Introduction Course
 
 In this introduction you will learn the Python 3.x command line and environment.
