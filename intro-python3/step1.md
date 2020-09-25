@@ -4,6 +4,6 @@
 
 Open the following file: `./step1/step1-built-in.py`{{open}}
 
-Step 1: <pre class="file" data-filename="./step1/step1-built-in.py" data-target="append">import json</pre>
+Step 1: <pre class="file" data-filename="./step1/step1-built-in.py" data-target="append">import json\n</pre>
 
 Step 2: see sys.path: <pre class="file" data-filename="./step1/step1-built-in.py" data-target="append">print(sys.path)</pre>
