@@ -7,8 +7,8 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Introduction to Python 3.x",
         "icon": "./intro-python3/assets/color_logo_no_background.png",
+        "title": "Step 1 - Introduction to Python 3.x",
         "text": "step1.md"
       },
       {
