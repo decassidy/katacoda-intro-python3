@@ -3,7 +3,7 @@
   "description": "This is a beginners tutorial on how to program using Python 3.x.",
   "difficulty": "Beginner",
   "time": "10 hours",
-  "icon": ".assets/color_logo_no_background.png",
+  "icon": "assets/color_logo_no_background.png",
   "details": {
     "steps": [
       {
