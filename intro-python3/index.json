@@ -8,11 +8,11 @@
     "steps": [
       {
         "icon": "./intro-python3/assets/color_logo_no_background.png",
-        "title": "Step 1 - Introduction to Python 3.x",
+        "title": "Introduction to Python 3.x",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Working with Python Modules",
+        "title": "Working with Python Modules",
         "text": "step2.md"
       },
       {
