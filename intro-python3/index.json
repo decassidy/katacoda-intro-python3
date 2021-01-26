@@ -219,6 +219,6 @@
     "uilayout": "vscode-terminal-split"
   },
   "backend": {
-    "imageid": "python:3.6"
+    "imageid": "python:3.8"
   }
 }
