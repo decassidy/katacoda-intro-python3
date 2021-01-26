@@ -6,9 +6,13 @@ All of this information on the Python 3.x command line and environment can be be
 
 ## What will you learn in this course?
 
-* You will learn how to utilize the Python built-in functions to help you do tasks with less coding. The key to good programming is to **DRY (*Dont Repeat Yourself*)** your code.
-    * EX. `abs()`, `int()`, `str()` and `bin()`
-    * Built-in Constants 
+* Using the Python interpreter
+    * Invoking the Interpreter
+        * Argument Passing
+        * Interactive Mode
+    * The Interpreter and its Environment
+        * Source Code Encoding
+ 
 
 ```python [-bBdEhiIOqsSuvVWx?] [-c <command> | -m <module-name> | script | - ] [args]```
 
